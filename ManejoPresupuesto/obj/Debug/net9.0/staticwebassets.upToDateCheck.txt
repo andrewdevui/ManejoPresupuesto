@@ -1,5 +1,6 @@
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.theme.min.css
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\package-lock.json
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
@@ -36,6 +37,7 @@ C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jqu
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\LICENSE.txt
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\js\site.js
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\fullcalendar\main.min.css
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
@@ -45,6 +47,7 @@ C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jqu
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\fullcalendar\main.min.js
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.css
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.js
@@ -125,6 +128,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\fullcalendar\main.min.css
+wwwroot\lib\fullcalendar\main.min.js
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -151,6 +156,7 @@ wwwroot\lib\jquery-ui\jquery-ui.theme.css
 wwwroot\lib\jquery-ui\jquery-ui.theme.min.css
 wwwroot\lib\jquery-ui\LICENSE.txt
 wwwroot\lib\jquery-ui\package.json
+wwwroot\lib\jquery-ui\package-lock.json
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.js

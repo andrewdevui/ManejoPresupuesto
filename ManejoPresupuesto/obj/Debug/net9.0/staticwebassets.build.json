@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5mAbEmR5go+LRzDdN5i74TpRwMJmo3K8LT67b8UJpMo=",
+  "Hash": "gLDZPrlmwfPk3fre0crdgJTjhv63WKfpLOEw93wf2y4=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1bxupsf9n9-5val4cbqea.gz",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/jquery-ui/package-lock#[.{fingerprint=5val4cbqea}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "67udtp6wbs",
+      "Integrity": "3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1l225nobjh-6cfz1n2cew.gz",
@@ -857,6 +878,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\hu2otib2hd-s1d8a3ib8h.gz",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/fullcalendar/main.min#[.{fingerprint=s1d8a3ib8h}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yblmf0zvh7",
+      "Integrity": "fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\ic1jbcile3-d7shbmvgxk.gz",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
@@ -1044,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\mttrdoaegw-6mmcung340.gz",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/fullcalendar/main.min#[.{fingerprint=6mmcung340}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dp35tc6i6s",
+      "Integrity": "/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\n2kads0pit-nr5zftr3vh.gz",
@@ -2768,6 +2831,48 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/fullcalendar/main.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1d8a3ib8h",
+      "Integrity": "EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\fullcalendar\\main.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/fullcalendar/main.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6mmcung340",
+      "Integrity": "gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\fullcalendar\\main.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
@@ -3312,6 +3417,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\package.json"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "lib/jquery-ui/package-lock#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5val4cbqea",
+      "Integrity": "QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\package-lock.json"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -18168,6 +18294,602 @@
       ]
     },
     {
+      "Route": "lib/fullcalendar/main.min.6mmcung340.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\mttrdoaegw-6mmcung340.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013131631"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mmcung340"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.6mmcung340.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mmcung340"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.6mmcung340.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\mttrdoaegw-6mmcung340.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mmcung340"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\hu2otib2hd-s1d8a3ib8h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000167168171"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\hu2otib2hd-s1d8a3ib8h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\mttrdoaegw-6mmcung340.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013131631"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqhxNoRraWeCppNZHezKGig+uPdmR/cntAtJsdTkm5A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\mttrdoaegw-6mmcung340.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5CkgIcWgzfxnfrAA/pmi2VdETw3B6DqurgPuk6zE5s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.s1d8a3ib8h.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\hu2otib2hd-s1d8a3ib8h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000167168171"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1d8a3ib8h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.s1d8a3ib8h.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1d8a3ib8h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAq+X/hXd44MlSOCkm9hchPJT78vQ4UBTT7FBkQl9qE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/fullcalendar/main.min.s1d8a3ib8h.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\hu2otib2hd-s1d8a3ib8h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 May 2023 22:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1d8a3ib8h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/fullcalendar/main.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fnTmhu2lk4sYNvICGo1PsBHonZHGYoywO77xBmjV62Y="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/dist/jquery.0i3buxo5is.js",
       "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\00j5xbls8j-0i3buxo5is.gz",
       "Selectors": [
@@ -24616,6 +25338,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.5val4cbqea.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1bxupsf9n9-5val4cbqea.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023505630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42542"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5val4cbqea"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package-lock.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.5val4cbqea.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5val4cbqea"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package-lock.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.5val4cbqea.json.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1bxupsf9n9-5val4cbqea.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5val4cbqea"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package-lock.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1bxupsf9n9-5val4cbqea.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023505630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42542"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QY4DT9akMCpP7ZC46Y7tTcl8ZSUgl5keQ+N883DcJ6k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package-lock.json.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\1bxupsf9n9-5val4cbqea.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 22:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3oSXnwpWNC6gZIPzDpWIZnPdpYi9RPgifJMN47Rp8tQ="
         }
       ]
     },

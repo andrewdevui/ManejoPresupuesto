@@ -205,6 +205,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\main.min.js"
+    },
+    {
       "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-ui\\AUTHORS.txt"
     },
@@ -275,6 +283,10 @@
     {
       "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
       "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\package-lock.json"
     },
     {
       "Id": "C:\\Users\\Andrew\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package.json",

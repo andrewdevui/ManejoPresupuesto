@@ -154,3 +154,14 @@ C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\xgzg73c90s-r81m7e34ry.gz
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\ManejoPresupuesto.sourcelink.json
 C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\w573u0cyb8-9w5qkaw0fh.gz
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\RBush.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\hu2otib2hd-s1d8a3ib8h.gz
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\mttrdoaegw-6mmcung340.gz
+C:\Users\Andrew\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\1bxupsf9n9-5val4cbqea.gz
