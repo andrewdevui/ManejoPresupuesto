@@ -2,6 +2,7 @@
 using ClosedXML.Excel;
 using ManejoPresupuesto.Models;
 using ManejoPresupuesto.Servicios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using SixLabors.Fonts;
@@ -11,7 +12,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 
 namespace ManejoPresupuesto.Controllers
-{
+{    
     public class TransaccionesController : Controller
     {
         private readonly IServiciousuarios servicioUsuarios;
@@ -31,7 +32,6 @@ namespace ManejoPresupuesto.Controllers
             this.mapper = mapper;
             this.servicioReportes = servicioReportes;
         }
-
         public async Task<IActionResult> Index(int mes, int año)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
@@ -39,7 +39,6 @@ namespace ManejoPresupuesto.Controllers
 
             return View(modelo);
         }
-
         public async Task<IActionResult> Semanal(int mes, int año)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();

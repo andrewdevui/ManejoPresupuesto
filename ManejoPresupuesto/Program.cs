@@ -1,17 +1,9 @@
-using ManejoPresupuesto.Servicios;
+using ManejoPresupuesto.Servicios.Extencion;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
-builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>();
-builder.Services.AddTransient<IServiciousuarios, ServicioUsuarios>();
-builder.Services.AddTransient<IRepositorioCuentas, RepositorioCuentas>();
-builder.Services.AddTransient<IRepositorioCategoria, RepositorioCategoria>();
-builder.Services.AddTransient<IRepositorioTransacciones, RepositorioTransacciones>();
-builder.Services.AddHttpContextAccessor();
-builder.Services.AddTransient<IServicioReportes, ServicioReportes>();
-builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddMyServices();
 
 var app = builder.Build();
 
@@ -26,6 +18,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();
