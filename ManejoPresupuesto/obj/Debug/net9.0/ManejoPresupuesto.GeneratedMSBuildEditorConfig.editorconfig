@@ -76,6 +76,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZlZ2FyTWVzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_paginacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdpbmFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_ReporteTransaccionesDetalladas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXBvcnRlVHJhbnNhY2Npb25lc0RldGFsbGFkYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -138,6 +142,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/OlvideMiPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcT2x2aWRlTWlQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/PasswordCambiado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUGFzc3dvcmRDYW1iaWFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/RecuperarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVjdXBlcmFyUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Andrew/source/repos/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/Registro.cshtml]

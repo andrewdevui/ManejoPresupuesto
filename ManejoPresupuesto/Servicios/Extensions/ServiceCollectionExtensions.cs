@@ -33,7 +33,7 @@ namespace ManejoPresupuesto.Servicios.Extencion
                 opciones.Password.RequireLowercase = false;
                 opciones.Password.RequireUppercase = false;
                 opciones.Password.RequireNonAlphanumeric = false;
-            }).AddErrorDescriber<MensajesErrorIdentity>();
+            }).AddErrorDescriber<MensajesErrorIdentity>().AddDefaultTokenProviders();
             services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = IdentityConstants.ApplicationScheme;
@@ -43,6 +43,8 @@ namespace ManejoPresupuesto.Servicios.Extencion
             {
                 opciones.LoginPath = "/usuarios/login";
             });
+
+            services.AddTransient<IServicioEmail, ServicioEmail>();
 
 
             return services;

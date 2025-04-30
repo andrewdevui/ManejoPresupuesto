@@ -15,11 +15,22 @@ namespace ManejoPresupuesto.Controllers
             this.servicioUsuarios = servicioUsuarios;
         }
         
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(PaginacionViewModel paginacionViewModel)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var categorias = await repositorioCategoria.Obtener(usuarioId);
-            return View(categorias);
+            var categorias = await repositorioCategoria.Obtener(usuarioId, paginacionViewModel);
+            var totalCategoria = await repositorioCategoria.Contar(usuarioId);
+
+            var respuestaVM = new PaginacionRespuesta<Categoria>
+            {
+                Elementos = categorias,
+                Pagina = paginacionViewModel.Pagina,
+                RecordsPorPagina = paginacionViewModel.RecordsPorPagina,
+                CantidadTotalRecords = totalCategoria,
+                BaseUrl = Url.Action()
+            };
+
+            return View(respuestaVM);
         }
 
         [HttpGet]
