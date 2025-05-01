@@ -24,3 +24,10 @@ Aplicación web desarrollada en **.NET Core 9** bajo arquitectura **MVC**, que p
 - ✅ **Reportes semanales y mensuales** con balance visual
 - ✅ **Exportación a Excel** por año completo
 - ✅ Dashboard con visualización clara de ingresos vs egresos
+
+## 📊 Reportes y Visualizaciones
+
+- 📅 Filtrado por calendario
+- 📈 Resumen semanal y mensual
+- 📁 Exportación de reportes anuales a Excel
+- 💰 Balance total por categoría y cuenta
